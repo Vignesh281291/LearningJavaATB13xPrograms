@@ -6,5 +6,7 @@ public class Lab003_ShotcutHW {
 //        Author: Vignesh
         System.out.println("Hi"); // SC-sout
         System.out.println("Bye");
+        //ctrl+/
+        /**/ //ctrl+shift+/
     }
 }
