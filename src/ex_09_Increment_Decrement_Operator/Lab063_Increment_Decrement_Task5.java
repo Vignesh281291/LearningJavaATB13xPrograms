@@ -6,5 +6,11 @@ public class Lab063_Increment_Decrement_Task5 {
         int b = a++ + ++a;
         System.out.println("a: " + a);
         System.out.println("b: " + b);
+        //Expression & Result Table
+        //Line No  |  a  |  Result b
+        //   5     |  5  |    -
+        //   6     |  6+6 |    12
+        //   7     |  7 |    -
+        //   8     |  - |    12
     }
 }
