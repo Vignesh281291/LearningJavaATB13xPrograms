@@ -1,6 +1,4 @@
-package ex_11_Swicth;
-
-import java.util.Scanner;
+package ex_11_Switch;
 
 public class Lab077_Switch_InterviewQ {
     public static void main(String[] args) {

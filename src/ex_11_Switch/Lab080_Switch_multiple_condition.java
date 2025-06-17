@@ -1,4 +1,4 @@
-package ex_11_Swicth;
+package ex_11_Switch;
 
 public class Lab080_Switch_multiple_condition {
     public static void main(String[] args) {

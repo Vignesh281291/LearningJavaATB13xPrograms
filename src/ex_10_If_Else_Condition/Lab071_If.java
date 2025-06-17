@@ -1,8 +1,8 @@
-package ex_10_If_Condition;
+package ex_10_If_Else_Condition;
 
 import java.util.Scanner;
 
-public class Lab072_If_Else {
+public class Lab071_If {
     public static void main(String[] args) {
         System.out.println("Enter Age:");
         Scanner s = new Scanner(System.in);
@@ -11,9 +11,6 @@ public class Lab072_If_Else {
         {
             System.out.println("Can Vote");
         }
-        else
-        {
-            System.out.println("Can't Vote");
-        }
+
     }
 }

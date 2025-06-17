@@ -1,4 +1,4 @@
-package ex_11_Swicth;
+package ex_11_Switch;
 
 public class Lab082_Switch_InterviewQ {
     public static void main(String[] args) {

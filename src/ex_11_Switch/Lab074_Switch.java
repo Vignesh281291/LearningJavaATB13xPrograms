@@ -1,4 +1,4 @@
-package ex_11_Swicth;
+package ex_11_Switch;
 
 import java.util.Scanner;
 
