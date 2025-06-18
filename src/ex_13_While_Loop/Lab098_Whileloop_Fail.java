@@ -1,4 +1,4 @@
-package ex_12_While_Loop;
+package ex_13_While_Loop;
 
 public class Lab098_Whileloop_Fail {
     public static void main(String[] args) {
