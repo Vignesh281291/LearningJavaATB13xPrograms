@@ -25,7 +25,7 @@ public class Lab116_Code9 {
                 break;
             case 6:
                 System.out.println("Sat");
-                //break;
+                break;
             case 7:
                 System.out.println("Sun");
                 break;

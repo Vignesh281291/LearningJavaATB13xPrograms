@@ -10,8 +10,7 @@ public class Lab118_Code11 {
         System.out.println("Numbers are...");
         for(int i=0;i<=num;i++)
         {
-
-            System.out.print(i);
+            System.out.print(i+" ");
         }
     }
 }
