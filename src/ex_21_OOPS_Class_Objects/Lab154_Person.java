@@ -1,4 +1,4 @@
-package ex_21_OOPS;
+package ex_21_OOPS_Class_Objects;
 
 public class Lab154_Person {
     public static void main(String[] args) {
