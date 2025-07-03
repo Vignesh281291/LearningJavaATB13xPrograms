@@ -1,4 +1,4 @@
-package Hierarchical_Inheritance;
+package ex_23_OOPS_Inheritance.Hierarchical_Inheritance;
 
 public class Lab165_Hierarchical {
 
