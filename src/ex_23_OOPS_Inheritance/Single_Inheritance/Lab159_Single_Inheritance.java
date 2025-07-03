@@ -1,4 +1,4 @@
-package ex_23_Inheritance;
+package ex_23_OOPS_Inheritance.Single_Inheritance;
 
 public class Lab159_Single_Inheritance {
     public static void main(String[] args) {
