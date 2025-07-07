@@ -1,6 +1,6 @@
 package ex_23_OOPS_Inheritance.Single_Inheritance;
 
-public class Lab176_Single_Inheritance_Task {
+public class Lab177_Single_Inheritance_Task {
     public static void main(String[] args) {
         cat c = new cat();
         System.out.println("Object for a inherited class can be used to call both the Parent's and Child classes");
