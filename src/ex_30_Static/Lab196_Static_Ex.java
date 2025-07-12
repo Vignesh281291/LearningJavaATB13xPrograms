@@ -12,4 +12,5 @@ public class Lab196_Static_Ex {
 }
 class A{
     static int number = 20;
+    int b = 30;
 }
