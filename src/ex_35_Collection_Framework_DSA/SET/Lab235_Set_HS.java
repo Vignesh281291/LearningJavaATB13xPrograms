@@ -1,0 +1,13 @@
+package ex_35_Collection_Framework_DSA.SET;
+
+import java.util.HashSet;
+
+public class Lab235_Set_HS {
+    public static void main(String[] args) {
+        HashSet hs = new HashSet();
+        hs.add("Test1");
+        hs.add("Test2");
+        hs.add("Test2"); //duplicates will npt be considered and takes the latest duplicated value
+        System.out.println(hs);
+    }
+}
