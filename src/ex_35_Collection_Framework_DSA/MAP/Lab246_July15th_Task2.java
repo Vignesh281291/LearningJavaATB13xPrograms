@@ -11,7 +11,7 @@ public class Lab246_July15th_Task2 {
         m1.put("Name","Dipak");
         m1.put("Role","Tester");
         m1.put("Level","Senior");
-        //Ketset
+        //Keyset
         System.out.println("KEYSET");
         for(String keyset:m1.keySet())
         {
